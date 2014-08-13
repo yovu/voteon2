@@ -54,12 +54,27 @@
 	<div id="headerwrap">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-10 col-md-offset-1">
+				<div class="col-md-10 center-block">
 					<h1>Get Reminded To Vote On Amendment 2</h1>
 				</div>
-			</div><! --/row -->
-		</div><! --/container -->
-	</div><! --/headerwrap -->
+
+				<div class="col-md-6 col-sm-6 center-block subscribe">
+					<form class="form-horizontal" role="form" action="subscribe.php" id="subscribeForm" method="POST">
+						<div class="form-group">
+							<div class="col-md-7 col-sm-6 col-sm-offset-1 col-md-offset-0">
+								<input class="form-control input-lg" name="cell" type="phone" id="address" placeholder="Enter your cell number" required="required">
+							</div>
+							<div class="col-md-3 col-sm-3">
+								<button type="submit" class="btn btn-success btn-lg">REMIND ME</button>
+							</div>
+						</div>
+					</form>
+					<span id="result" class="alertMsg"></span> 
+				</div>
+
+			</div>
+		</div>
+	</div>
 	
 	<section id="about" name="about"></section>
 	<div id="aboutwrap">

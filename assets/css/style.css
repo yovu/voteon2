@@ -225,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
 	height: 40px;
 	line-height: 40px;
 	cursor: pointer;
-	background: rgba(0,0,0,0.25);
+	background: #000000;
 	-webkit-transition: all .1s ease-in-out;
 	   -moz-transition: all .1s ease-in-out;
 		-ms-transition: all .1s ease-in-out;
@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(../img/welcome-bg.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top:120px;
 	text-align:center;
@@ -487,4 +487,65 @@ h1, h2, h3, h4, h5, h6 {
 
 .desc {
 	margin-top: 25px;
+}
+
+
+.input-lg {
+	height: 55px;
+}
+
+.form-control {
+	border-radius: 3px;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border: 0;
+}
+
+.btn-large {
+	font-size:18px;
+	padding:20px 50px;
+	margin:5px 10px;
+}
+.btn-success {
+	background-color: #2ecc71;
+	background-image:none;
+	border: 0;
+	-webkit-box-shadow: 0 3px 0 rgba(2, 154, 67, 1);
+	box-shadow: 0 3px 0 rgba(2, 154, 67, 1);
+	line-height: 1.8;
+}
+.btn-success:hover, .btn-success:focus, .btn-success:active {
+	background-color: #29c36a;
+	color:#FFF;
+	border: 0;
+	-webkit-box-shadow: 0 3px 0 rgba(2, 139, 61, 1);
+	box-shadow: 0 3px 0 rgba(2, 139, 61, 1);
+}
+.btn-primary {
+	background-color: #2db6d8;
+	background-image:none;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+	background-color: #209ab8!important;
+	color:#FFF!important;
+}
+.subscribe {
+	padding: 45px 0;
+}
+
+.subscribe form {
+	margin-left: 56px;
+}
+
+.alertMsg {
+	float: left;
+	font-size: 14px;
+	display: block;
+	padding: 5px 17px;
+}
+
+
+.center-block {
+	float: none;
 }

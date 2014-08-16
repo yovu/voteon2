@@ -9,37 +9,125 @@
 
 	var locations = [
 		{
-			"latlng" :[35.681382,139.766084],
+			"latlng" :[25.952792,-80.139271],
 			name: "Aventura Government Center",
-			address: "19200 West Country Club Drive, Aventura FL",
+			address: "19200 West Country Club Drive",
 			dates: "8/11 - 8/24"
 		},
 		{
-			"latlng" :[35.630152,139.74044],
+			"latlng" :[25.727725,-80.233840],
 			name: "City of Miami - City Hall",
-			address: "3500 Pan American Drive, Miami FL",
+			address: "3500 Pan American Drive",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.739721,-80.266283],
+			name: "Coral Gables Library",
+			address: "3443 Segovia Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.628916,-80.342826],
+			name: "Coral Reef Library",
+			address: "9211 SW 152nd Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.800197,-80.338576],
+			name: "Elections Department",
+			address: "2700 NW 87th Avenue",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.485832,-80.476526],
+			name: "Homestead Community Center",
+			address: "1601 N. Krome Avenue",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.866479,-80.286492],
+			name: "John F. Kennedy Library",
+			address: "190 West 49th Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.683762,-80.351737],
+			name: "Kendall Branch Library",
+			address: "9100 SW 97th Avenue",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.832295,-80.187111],
+			name: "Lemon City Library",
+			address: "430 NE 61st Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.792854,-80.136285],
+			name: "Miami Beach City Hall",
+			address: "1755 Meridian Avenue",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.911071,-80.332987],
+			name: "Miami Lakes Community Center",
+			address: "15151 NW 82nd Avenue",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.824199,-80.231728],
+			name: "Model City Library",
+			address: "2211 NW 54th Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.941703,-80.242376],
+			name: "North Dade Regional Library",
+			address: "2455 NW 183rd Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.897028,-80.181625],
+			name: "North Miami Public Library",
+			address: "835 NE 132nd Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.860852,-80.120814],
+			name: "North Shore Branch Library",
+			address: "7501 Collins Avenue",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.571027,-80.364858],
+			name: "South Dade Regional Library",
+			address: "10750 SW 211th Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.775238,-80.196685],
+			name: "Stephen P. Clark Government Center",
+			address: "111 NW 1st Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.748353,-80.347781],
+			name: "West Dade Regional Library",
+			address: "9445 SW 24th Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.770966,-80.277358],
+			name: "West Flagler Branch Library",
+			address: "5050 West Flagler Street",
+			dates: "8/11 - 8/24"
+		},
+		{
+			"latlng" :[25.673223,-80.441554],
+			name: "West Kendall Regional Library",
+			address: "10201 Hammocks Boulevard",
 			dates: "8/11 - 8/24"
 		}
-	];
-
-	var stationList = [
-	{"latlng":[35.681382,139.766084],name:"Tokyo Station"},
-	{"latlng":[35.630152,139.74044],name:"Shinagawa Station"},
-	{"latlng":[35.507456,139.617585],name:"Shin-Yokohama Station"},
-	{"latlng":[35.25642,139.154904],name:"Odawara Station"},
-	{"latlng":[35.103217,139.07776],name:"Atami Station"},
-	{"latlng":[35.127152,138.910627],name:"Mishima Station"},
-	{"latlng":[35.142015,138.663382],name:"Shin-Fuji Station"},
-	{"latlng":[34.97171,138.38884],name:"Shizuoka Station"},
-	{"latlng":[34.769758,138.014928],name:"Kakegawa Station"},
-	{"latlng":[34.703741,137.734442],name:"Hamamatsu Station"},
-	{"latlng":[34.762811,137.381651],name:"Toyohashi Station"},
-	{"latlng":[34.96897,137.060662],name:"Mikawa-Anjyo Station"},
-	{"latlng":[35.170694,136.881637],name:"Nagoya Station"},
-	{"latlng":[35.315705,136.685593],name:"Gifu-Hashima Station"},
-	{"latlng":[35.314188,136.290488],name:"Yonehara Station"},
-	{"latlng":[34.985458,135.757755],name:"Kyoto Station"},
-	{"latlng":[34.73348,135.500109],name:"Shin-Osaka Station"}
 	];
 
 	var infoWnd, mapCanvas;

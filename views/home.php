@@ -37,7 +37,7 @@
   <script src="assets/js/smoothscroll.js"></script>
   <script src="assets/js/jquery.stellar.min.js"></script>
   <script src="assets/js/fancybox/jquery.fancybox.js"></script>
-  <script src="assets/js/main.js"></script>
+  <script src="assets/js/app.js"></script>
   <script>
   $(function(){
     $.stellar({

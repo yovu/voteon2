@@ -123,7 +123,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .menu h1.logo a:hover {
-	color: #f85c37;
+	color: green;
+  text-decoration: none;
 }
 
 .menu img.logo {
@@ -235,7 +236,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #menuToggle:hover {
 	color: #ffffff;
-	background: rgba(0,0,0,0.2);
+	background: #000000;
 	-webkit-transition: all .1s ease-in-out;
 	   -moz-transition: all .1s ease-in-out;
 		-ms-transition: all .1s ease-in-out;

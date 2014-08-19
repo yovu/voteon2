@@ -95,37 +95,107 @@
 			<div class="row">
 
 				<div class="col-md-12 subtitle">
-					<h2>Features</h2>
+					<h2>10 Major Health Benefits Of Marijuana</h2>
 					<div class="header-deveider"></div>
 					<p class="wow fadeInUp">I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence.</p>
 				</div>
 
-				<div class="col-md-4 col-sm-4 wow fadeInLeft">
+				<div class="col-md-6 col-sm-4 wow fadeInLeft">
 					<div class="features-item">
 						<div class="features-item-icon">
 							<i class="fa fa-bomb"></i>
 						</div>
-						<h3>App Feature One</h3>
+						<h3>Treats Migraines</h3>
 						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
 					</div>
 				</div>
 
-				<div class="col-md-4 col-sm-4 wow fadeInUp">
+				<div class="col-md-6 col-sm-4 wow fadeInRight">
 					<div class="features-item">
 						<div class="features-item-icon">
 							<i class="fa fa-map-marker"></i>
 						</div>
-						<h3>App Feature Two</h3>
+						<h3>Slows Tumor Growth</h3>
 						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
 					</div>
 				</div>
 
-				<div class="col-md-4 col-sm-4 wow fadeInRight">
+				<div class="col-md-6 col-sm-4 wow fadeInLeft">
 					<div class="features-item">
 						<div class="features-item-icon">
 							<i class="fa fa-cog"></i>
 						</div>
-						<h3>App Feature Three</h3>
+						<h3>Relieves Symptoms Of Chronic Diseases</h3>
+						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-6 col-sm-4 wow fadeInRight">
+					<div class="features-item">
+						<div class="features-item-icon">
+							<i class="fa fa-cog"></i>
+						</div>
+						<h3>Prevents Alzheimer's</h3>
+						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-6 col-sm-4 wow fadeInLeft">
+					<div class="features-item">
+						<div class="features-item-icon">
+							<i class="fa fa-cog"></i>
+						</div>
+						<h3>Treats Glaucoma</h3>
+						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-6 col-sm-4 wow fadeInRight">
+					<div class="features-item">
+						<div class="features-item-icon">
+							<i class="fa fa-cog"></i>
+						</div>
+						<h3>Prevents Seizures</h3>
+						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-6 col-sm-4 wow fadeInLeft">
+					<div class="features-item">
+						<div class="features-item-icon">
+							<i class="fa fa-cog"></i>
+						</div>
+						<h3>Helps Those With ADD & ADHD</h3>
+						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-6 col-sm-4 wow fadeInRight">
+					<div class="features-item">
+						<div class="features-item-icon">
+							<i class="fa fa-cog"></i>
+						</div>
+						<h3>May Treat Multiple Sclerosis</h3>
+						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-6 col-sm-4 wow fadeInLeft">
+					<div class="features-item">
+						<div class="features-item-icon">
+							<i class="fa fa-cog"></i>
+						</div>
+						<h3>Helps Relieve PMS</h3>
+						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+					</div>
+				</div>
+				
+				<div class="col-md-6 col-sm-4 wow fadeInRight">
+					<div class="features-item">
+						<div class="features-item-icon">
+							<i class="fa fa-cog"></i>
+						</div>
+						<h3>Helps Calm Those With Tourette's & OCD</h3>
 						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
 					</div>
 				</div>

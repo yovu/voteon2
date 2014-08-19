@@ -67,7 +67,7 @@
 			<div class="row">
 
 				<div class="col-md-12" style="margin-bottom: 22px;">
-					<h2>EARLY VOTING LOCATIONS</h2>
+					<h2>Early Voting Locations</h2>
 					<div class="header-deveider"></div>
 					<p class="wow fadeInUp">Early Voting will be open from Aug. 11-24 for the Aug. 26 Primary Election.</p>
 					<h3>Why wait? Vote early!</h3>

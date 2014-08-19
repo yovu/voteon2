@@ -206,42 +206,41 @@
 	</section>
 
 	<!-- Features section end -->
+	
+	<section class="second-intro">
 
+	</section>
+	
+	
+	<section class="about">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-md-12" style="margin-bottom: 22px;">
+					<h2>Donate To United for Care</h2>
+					<div class="header-deveider"></div>
+					<p class="wow fadeInUp">We love being anonymous, we love bitcoin.</p>
+				</div>
+
+
+			</div>
+		</div>
+	</section>
+	
 	<!-- Footer start -->
 
 	<footer class="footer">
 		<div class="container">
 			<div class="row">
 
-				<div id="subscribe" class="col-md-12 subtitle">
-					<h2>Subscribe</h2>
-					<div class="header-deveider"></div>
-					<p class="wow fadeInUp">I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence.</p>
-				</div>
-
-				<div class="col-md-12">
-					<form class="subscription-form form-inline wow fadeInUp" role="form">
-						<div class="form-group">
-							<label class="sr-only" for="sub-email">Your Email</label>
-							<input type="email" id="sub-email" name="sub-email" class="form-control input-box" placeholder="Your Email" >
-						</div>
-						<button type="submit" class="btn btn-default btn-theme"><i class="fa fa-rss"></i> Subscribe</button>
-					</form>
-					<div class="subscription-message"></div>
-				</div>
-
 				<div id="share" class="col-md-12 wow fadeInUp">
 					<ul class="socials-links">
-						<li><a href=""><i class="fa fa-facebook-square"></i></a></li>
-						<li><a href=""><i class="fa fa-twitter-square"></i></a></li>
-						<li><a href=""><i class="fa fa-pinterest-square"></i></a></li>
-						<li><a href=""><i class="fa fa-google-plus-square"></i></a></li>
-						<li><a href=""><i class="fa fa-linkedin-square"></i></a></li>
-						<li><a href=""><i class="fa fa-github-square"></i></a></li>
-						<li><a href=""><i class="fa fa-tumblr-square"></i></a></li>
+						<li><a href="#" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+						<li><a href="#" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+						<li><a href="https://github.com/yovu/voteon2" target="_blank"><i class="fa fa-github-square"></i></a></li>
 					</ul>
 					<p class="copyright">
-						© 2014 Cortes, All Rights Reserved
+						© 2014 Vote On 2, Some Rights Reserved
 					</p>
 				</div>
 

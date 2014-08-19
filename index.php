@@ -10,7 +10,7 @@
   $app->setName('vore-on-two');
 
   //Routes
-  $app->get('/', 'home');
+  $app->get('/', 'Pages:home');
 
   $app->group('/process', function () use ($app) {
 
@@ -21,18 +21,23 @@
 
   # lets go
   $app->run();
-
-
-  function home() {
-    include('views/home.php');
+  
+  /**
+  *  Pages
+  */
+  class Pages
+  {
+    function home() {
+      include('views/home.php');
+    }
   }
+
 
   /**
   *  Process data as it comes in
   */
   class Process
   {
-
     function phone()
     {
       echo "no";

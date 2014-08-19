@@ -97,103 +97,103 @@
 				<div class="col-md-12 subtitle">
 					<h2>10 Major Health Benefits Of Marijuana</h2>
 					<div class="header-deveider"></div>
-					<p class="wow fadeInUp">ddd</p>
+					<p class="wow fadeInUp"></p>
 				</div>
 
-				<div class="col-md-6 col-sm-4 wow fadeInLeft">
+				<div class="col-md-6 col-sm-4 wow fadeInLeft benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-bomb"></i>
+							1
 						</div>
 						<h3>Treats Migraines</h3>
 						<p>Doctors in California report that they have been able to treat more than 300,000 cases of migraines with medical marijuana.</p>
 					</div>
 				</div>
 
-				<div class="col-md-6 col-sm-4 wow fadeInRight">
+				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-map-marker"></i>
+							2
 						</div>
 						<h3>Slows Tumor Growth</h3>
 						<p>The American Association for Cancer Research has found the marijuana actually works to slow down tumor growth in the lungs, breasts, and brain considerably.</p>
 					</div>
 				</div>
 
-				<div class="col-md-6 col-sm-4 wow fadeInLeft">
+				<div class="col-md-6 col-sm-4 wow fadeInLeft benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-cog"></i>
+							3
 						</div>
 						<h3>Relieves Symptoms Of Chronic Diseases</h3>
 						<p>Research shows marijuana can help treat the symptoms of chronic diseases like Irritable Bowel Disease and Crohn's, because it can treat nausea, abdominal pain and diarrhea.</p>
 					</div>
 				</div>
 				
-				<div class="col-md-6 col-sm-4 wow fadeInRight">
+				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-cog"></i>
+							4
 						</div>
 						<h3>Prevents Alzheimer's</h3>
 						<p>In 2006, the Scripps Institute proved that the THC found in marijuana works to prevent Alzheimer's by clocking the deposits in the brain that cause the disease.</p>
 					</div>
 				</div>
 				
-				<div class="col-md-6 col-sm-4 wow fadeInLeft">
+				<div class="col-md-6 col-sm-4 wow fadeInLeft benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-cog"></i>
+							5
 						</div>
 						<h3>Treats Glaucoma</h3>
 						<p>Some studies suggest that use of medical marijuana helps lower intraocular pressure in the eyes of glaucoma patients.</p>
 					</div>
 				</div>
 				
-				<div class="col-md-6 col-sm-4 wow fadeInRight">
+				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-cog"></i>
+							6
 						</div>
 						<h3>Prevents Seizures</h3>
 						<p>Marijuana is a muscle relaxant and has "antispasmodic" qualities which have proven to be a very effective treatment of seizures.</p>
 					</div>
 				</div>
 				
-				<div class="col-md-6 col-sm-4 wow fadeInLeft">
+				<div class="col-md-6 col-sm-4 wow fadeInLeft benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-cog"></i>
+							7
 						</div>
 						<h3>Helps Those With ADD & ADHD</h3>
 						<p>A well documented 2009 USC study showed that marijuana is not only a perfect alternative for Ritalin but treats the disorder without any of the negative side effects of the pharmaceutical.</p>
 					</div>
 				</div>
 				
-				<div class="col-md-6 col-sm-4 wow fadeInRight">
+				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-cog"></i>
+							8
 						</div>
 						<h3>May Treat Multiple Sclerosis</h3>
 						<p>Marijuana works to stop the neurological effects and muscle spasms that come from multiple sclerosis by protecting nerves from the damage caused by the fatal disease.</p>
 					</div>
 				</div>
 				
-				<div class="col-md-6 col-sm-4 wow fadeInLeft">
+				<div class="col-md-6 col-sm-4 wow fadeInLeft benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-cog"></i>
+							9
 						</div>
 						<h3>Helps Relieve PMS</h3>
 						<p>Anecdotal evidence suggest that cannabis use may reduce pain in severe cases of PMS.</p>
 					</div>
 				</div>
 				
-				<div class="col-md-6 col-sm-4 wow fadeInRight">
+				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
-							<i class="fa fa-cog"></i>
+							10
 						</div>
 						<h3>Helps Calm Those With Tourette's & OCD</h3>
 						<p>Just like marijuana can treat seizures and multiple sclerosis, marijuana's effects slow down the tics in those suffering from Tourette's, and the obsessive neurological symptoms in people with OCD.</p>

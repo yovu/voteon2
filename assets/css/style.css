@@ -80,14 +80,14 @@ a,
 ------------------------------------------------- */
 
 .btn {
-	color: #FFF;
+	color: #555;
 	padding: 15px 25px;
 	margin: 5px;
 }
 
 .btn-theme {
-	background: transparent;
-	border: 2px solid #19B5FE;
+	background: #ffffff;
+	border: 2px solid #ffffff;
 }
 
 .btn-theme i {
@@ -98,8 +98,8 @@ a,
 .btn-theme:focus,
 .btn-theme:active,
 .btn-theme.active {
-	background: #19B5FE;
-	border: 2px solid #19B5FE;
+	background: green;
+	border: 2px solid green;
 	outline: inherit !important;
 	color: #FFF;
 }

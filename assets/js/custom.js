@@ -12,11 +12,18 @@
 
 	$(document).ready(function() {
 
+		$('#qrcode').qrcode({
+			width: 385,
+			height: 385,
+			render	: "table",
+			text	: "1L6q4Q2ufGAEREUiLjeYH8u7Ym4B4rZtaA"
+		});
+
 		/* ---------------------------------------------- /*
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$.backstretch(['assets/images/bg1.jpg']);
+		$.backstretch(['assets/images/footer-intro.jpg']);
 
 		/* ---------------------------------------------- /*
 		 * Animation scroll

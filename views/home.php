@@ -38,7 +38,7 @@
 				<div class="col-md-12">
 
 					<div class="i_header">
-						<h1>Get Reminded To Vote On <br> Amendment 2</h1>
+						<h1>Don't forget to Vote Yes on <br> Amendment 2</h1>
 					</div>
 
 					<div class="i_footer">
@@ -217,10 +217,19 @@
 		<div class="container">
 			<div class="row">
 
-				<div class="col-md-12" style="margin-bottom: 22px;">
+				<div class="col-md-12" style="margin-bottom: 56px;">
 					<h2>Donate To United for Care</h2>
 					<div class="header-deveider"></div>
 					<p class="wow fadeInUp">We love being anonymous, we love bitcoin.</p>
+					<div class="bitcoin-address"><a href="https://blockchain.info/address/1L6q4Q2ufGAEREUiLjeYH8u7Ym4B4rZtaA" target="_blank">1L6q4Q2ufGAEREUiLjeYH8u7Ym4B4rZtaA</a></div>
+				</div>
+
+				<div class="col-md-4 col-sm-4 wow fadeInLeft">
+					<div id="qrcode"></div>
+				</div>
+
+				<div class="col-md-4 col-sm-4 wow fadeInRight">
+					hello here
 				</div>
 
 
@@ -260,6 +269,8 @@
 	<script src="assets/js/wow.min.js"></script>
 	<script src="assets/js/smoothscroll.js"></script>
 	<script src="assets/js/jquery.maskedinput.js"></script>
+	<script src="assets/js/jquery.qrcode.js"></script>
+	<script src="assets/js/qrcode.js"></script>
 	<script src="assets/js/custom.js"></script>
 
 </body>

@@ -228,8 +228,9 @@
 					<div id="qrcode"></div>
 				</div>
 
-				<div class="col-md-4 col-sm-4 wow fadeInRight">
-					hello here
+				<div class="col-md-7 col-sm-4 wow fadeInRight" style="float: right;">
+					<p>All donations that are made with bitcoins, will be converted into USD and transmitted to <a href="http://www.unitedforcare.org/">People United for Medical Marijuana.</a></p>
+					<p>If you wish to make a donation using USD please visit their site <a href="https://unitedforcare.nationbuilder.com/contribute">unitedforcare.org</a></p>
 				</div>
 
 
@@ -245,8 +246,6 @@
 
 				<div id="share" class="col-md-12 wow fadeInUp">
 					<ul class="socials-links">
-						<li><a href="#" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
-						<li><a href="#" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
 						<li><a href="https://github.com/yovu/voteon2" target="_blank"><i class="fa fa-github-square"></i></a></li>
 					</ul>
 					<p class="copyright">

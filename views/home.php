@@ -45,12 +45,13 @@
 
 						<form class="subscription-form form-inline wow fadeInUp" role="form">
 							<div class="form-group">
-								<label class="sr-only" for="sub-email">Your Phone</label>
-								<input type="email" id="sub-email" name="sub-email" class="form-control input-box" placeholder="Your Phone" >
+								<label class="sr-only" for="sub-phone">Your Phone</label>
+								<input type="tel" id="sub-phone" name="phone" class="form-control input-box" placeholder="Your Phone" >
 							</div>
 							<button type="submit" class="btn btn-default btn-theme"><i class="fa fa-comment-o"></i> Remind Me</button>
+							<p>*We will never share, rent, or sell your phone number to anyone, ever.</p>
 						</form>
-						<p>*We will never share, rent, or sell your phone number to anyone, ever.</p>
+						<div class="subscription-message"></div>
 					</div>
 
 				</div>
@@ -129,7 +130,7 @@
 						<p>Research shows marijuana can help treat the symptoms of chronic diseases like Irritable Bowel Disease and Crohn's, because it can treat nausea, abdominal pain and diarrhea.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
@@ -139,7 +140,7 @@
 						<p>In 2006, the Scripps Institute proved that the THC found in marijuana works to prevent Alzheimer's by clocking the deposits in the brain that cause the disease.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-6 col-sm-4 wow fadeInLeft benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
@@ -149,7 +150,7 @@
 						<p>Some studies suggest that use of medical marijuana helps lower intraocular pressure in the eyes of glaucoma patients.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
@@ -159,7 +160,7 @@
 						<p>Marijuana is a muscle relaxant and has "antispasmodic" qualities which have proven to be a very effective treatment of seizures.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-6 col-sm-4 wow fadeInLeft benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
@@ -169,7 +170,7 @@
 						<p>A well documented 2009 USC study showed that marijuana is not only a perfect alternative for Ritalin but treats the disorder without any of the negative side effects of the pharmaceutical.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
@@ -179,7 +180,7 @@
 						<p>Marijuana works to stop the neurological effects and muscle spasms that come from multiple sclerosis by protecting nerves from the damage caused by the fatal disease.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-6 col-sm-4 wow fadeInLeft benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
@@ -189,7 +190,7 @@
 						<p>Anecdotal evidence suggest that cannabis use may reduce pain in severe cases of PMS.</p>
 					</div>
 				</div>
-				
+
 				<div class="col-md-6 col-sm-4 wow fadeInRight benefit">
 					<div class="features-item">
 						<div class="features-item-icon">
@@ -206,12 +207,12 @@
 	</section>
 
 	<!-- Features section end -->
-	
+
 	<section class="second-intro">
 
 	</section>
-	
-	
+
+
 	<section class="about">
 		<div class="container">
 			<div class="row">
@@ -226,7 +227,7 @@
 			</div>
 		</div>
 	</section>
-	
+
 	<!-- Footer start -->
 
 	<footer class="footer">
@@ -251,20 +252,14 @@
 	<!-- Footer end -->
 
 	<!-- Javascript files -->
-	<!-- jQuery -->
 	<script src="assets/js/jquery-1.11.0.min.js"></script>
 	<script type="text/javascript"src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
-	<!-- Bootstrap JS -->
 	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
-	<!-- Background slider -->
 	<script src="assets/js/jquery.backstretch.min.js"></script>
-	<!-- Count Down - Time Circles  -->
 	<script src="assets/js/TimeCircles.js"></script>
-	<!-- WOW - Reveal Animations When You Scroll -->
 	<script src="assets/js/wow.min.js"></script>
-	<!-- Smooth scroll -->
 	<script src="assets/js/smoothscroll.js"></script>
-	<!-- Custom scripts -->
+	<script src="assets/js/jquery.maskedinput.js"></script>
 	<script src="assets/js/custom.js"></script>
 
 </body>

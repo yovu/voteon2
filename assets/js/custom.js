@@ -80,27 +80,29 @@
 		 * Subscribe form ajax
 		/* ---------------------------------------------- */
 
+		$("#sub-phone").mask("(999) 999-9999");
+
 		$(".subscription-form").submit(function(e) {
 
 			e.preventDefault();
 
-			var email = $("#sub-email").val();
-			var dataString = 'email=' + email;
+			var phone = $("#sub-phone").val();
 
 			$.ajax({
 				type: "POST",
-				url: "assets/php/subscribe.php",
-				data: dataString,
+				url: "/process/phone?phone="+phone,
 				dataType: 'json',
 				success: function (result) {
-					if(result.formstatus == 1) {
-						$('.subscription-message').html(result.message);
+
+					if (result.status.code == '200') {
+						$('.subscription-message').html('We got you on our reminder list.');
 						$('.subscription-message').fadeIn(500);
 						$('.subscription-form').fadeOut(500);
 					} else {
-						$('.subscription-message').html(result.message);
+						$('.subscription-message').html('We seem to have a problem, please try again.');
 						$('.subscription-message').fadeIn(1000);
-					}
+					};
+
 				}
 			});
 

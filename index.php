@@ -43,4 +43,18 @@
       echo "no";
     }
   }
+
+  function getConnection()
+  {
+    try {
+      $db_username = "DATABASE_NAME";
+      $db_password = "********";
+      $conn = new PDO('mysql:host=localhost;dbname=root', $db_username, $db_password);
+      $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    } catch (PDOExeption $e) {
+      echo 'ERROR: '. $e->getMessage();
+    }
+
+    return $conn;
+  }
 ?>

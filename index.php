@@ -23,7 +23,7 @@
 
   # lets go
   $app->run();
-  
+
   /**
   *  Pages
   */
@@ -46,7 +46,30 @@
       $req = $app->request();
       $phone = $req->params('phone');
 
-      echo $phone;
+      $sql = "INSERT INTO phones (phone, ip, created_at) VALUES (:phone, :ip, NOW())";
+
+      try {
+        $conn = getConnection();
+        $q = $conn->prepare($sql);
+        $q->execute(array(
+          'phone' => $phone,
+          'ip' => $_SERVER['REMOTE_ADDR']
+        ));
+        $conn = null;
+
+        $response['status'] = array(
+          'code' => '200'
+        );
+
+      } catch (PDOExeption $e) {
+        $response['status'] = array(
+          'code' => '500',
+          'message' => $e->getMessage
+        );
+      }
+
+      echo json_encode($response);
+
     }
   }
 

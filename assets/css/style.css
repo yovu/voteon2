@@ -160,7 +160,15 @@ h4 { font-size: 18px; }
 }
 
 .intro .container {
-	margin-top: 86px;
+	margin-top: 50px;
+}
+
+.intro h1 {
+	font-size: 60px
+}
+
+.intro .i_footer {
+	margin: 64px 0px 0px 0px;
 }
 
 
@@ -200,9 +208,10 @@ h4 { font-size: 18px; }
 .second-intro {
 	min-height: 283px;
 	background-color: rgba(0, 0, 0, .5) !important;
-	background-image: url("../images/welcome-bg.jpg") !important;
+	background-image: url("../images/footer-intro.jpg") !important;
 	z-index: auto !important;
 	color: #FFF;
+	background-position: 0% 43%;
 }
 
 /* About

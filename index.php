@@ -16,7 +16,7 @@
 
   $app->group('/process', function () use ($app) {
 
-    $app->get('/phone', 'Process:phone');
+    $app->post('/phone', 'Process:phone');
 
   });
 
@@ -42,7 +42,11 @@
   {
     function phone()
     {
-      echo "no";
+      global $app;
+      $req = $app->request();
+      $phone = $req->params('phone');
+
+      echo $phone;
     }
   }
 

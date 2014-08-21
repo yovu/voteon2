@@ -280,7 +280,7 @@ h4 { font-size: 18px; }
 ------------------------------------------------- */
 
 #share {
-	
+
 }
 
 .socials-links {
@@ -402,4 +402,30 @@ h4 { font-size: 18px; }
 		margin-bottom: 10px;
 	}
 
+}
+
+/* ---------------------------------------------- /*
+ * iPhone 5 in portrait
+/* ---------------------------------------------- */
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+	.intro h1 {
+		font-size: 45px;
+	}
+
+	.name {
+		margin-bottom: 14px;
+	}
+
+	.benefit {
+		height: 317px;
+	}
+
+	.bitcoin-address {
+		word-wrap: break-word;
+	}
+
+	#qrcode table {
+		width: 289px!important;
+	}
 }

@@ -23,7 +23,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$.backstretch(['assets/images/footer-intro.jpg']);
+		//$.backstretch(['assets/images/footer-intro.jpg']);
 
 		/* ---------------------------------------------- /*
 		 * Animation scroll

@@ -57,6 +57,16 @@
         ));
         $conn = null;
 
+        $account_sid = $_ENV['TWILIO_SID'];
+        $auth_token = $_ENV['TWILIO_TOKEN'];
+        $client = new Services_Twilio($account_sid, $auth_token);
+
+        $client->account->messages->create(array(
+          'To' => $phone,
+          'From' => $_ENV['TWILIO_NUM'],
+          'Body' => "Thank you for supporting Amendment 2, you will receive a follow up message reminding you when to vote.",
+        ));
+
         $response['status'] = array(
           'code' => '200'
         );

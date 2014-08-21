@@ -18,6 +18,12 @@
 
     $app->post('/phone', 'Process:phone');
 
+    $app->group('/sms', function () use ($app) {
+
+      $app->post('/reply', 'Process:sms_reply');
+
+    });
+
   });
 
 
@@ -80,6 +86,16 @@
 
       echo json_encode($response);
 
+    }
+
+    function sms_reply()
+    {
+      header("content-type: text/xml");
+      echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n";
+
+      echo "<Response>";
+        echo "<Message>Im just a robot, but dont worry we have you on the list.</Message>";
+      echo "</Response>";
     }
   }
 
